@@ -9,6 +9,7 @@ A project management system with a web app, an Android app and one shared backen
 - Health check: https://pms-backend-k497.onrender.com/health
 - GitHub: https://github.com/srishti-1935/pms
 - API docs: [API.md](API.md)
+- Android APK: https://expo.dev/accounts/sristea19/projects/mobile/builds/2f4306eb-dd04-45df-b98a-c6e04827beae
 
 Note: the backend runs on a free tier and sleeps when idle. Open the health check link first and wait a few seconds before using the apps.
 
